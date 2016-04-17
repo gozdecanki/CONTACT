@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#F2F2F0</color>
+    <color name="butterfly"> #F2F2F0</color>
+    <color name="p">#F9B7FF</color>
+    <color name="grey">#B6B6B4</color>
+    <color name="butonrenk">#A2A2A0</color>
+
+
+</resources>
